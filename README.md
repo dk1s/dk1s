@@ -10,12 +10,12 @@
 
 ## 🚀 Projects
 
-* 📦 Logyxpress
-* 🏏 CricArabia
-* 🏆 Cric11
-* 🔥 Firesetgo
-* 🌐 VisaNet
-* 📊 CricketGyan
+* 📦 Logyxpress (https://app.logyxps.com/)
+* 🏏 CricArabia (https://cricarabia.com/)
+* 🏆 Cric11 (Under-Working)
+* 🔥 Firesetgo (https://app.firesetgo.com/)
+* 🌐 LocaPay (https://app.locapay.co.ke/)
+* 📊 CricketGyan (https://cricketgyan.com/)
 
 ## 🛠️ Tech Stack
 
