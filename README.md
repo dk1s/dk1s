@@ -1,14 +1,35 @@
-- Profile:-
+# 👋 Hi, I’m Deepak Kumar (@dk1s)
 
-- 👋 Hi, I’m Deepak Kumar (@dk1s)  
-- 👀 I’m interested in **Electronic System Design, Web Development, and Signal Processing**  
-- 🌱 I’m currently learning **Salesforce Development, GIS Integration, and advanced frameworks like React and Node.js**  
-- 💞️ I’m looking to collaborate on **innovative IoT projects, electronics-based systems, and web applications**
-- 🌐 My Project:-
-   - Portfolio Website,
-   - Anti Sleep Alarm System For Driver,
-   - Wireless Mobile Charging Project.
-- 📫 How to reach me:  
-   - Email: deepakkumarplacee@gmail.com  
-   - LinkedIn: [Deepak Kumar](https://www.linkedin.com/in/deepak-kumar)  
-- ⚡ Fun fact: I can seamlessly switch between designing electronic systems and building interactive web applications!
+* 💻 Full Stack Developer focused on building scalable and high-performance web applications
+* 🚀 Skilled in **React.js, Next.js, TypeScript, Tailwind CSS, Node.js, and MongoDB**
+* ⚡ Built responsive and production-ready applications with modern frontend architecture
+* 🔄 Implemented **CRUD operations, API integrations, and state management using Redux & Zustand**
+* 💬 Developed **real-time chat systems using WebSocket technology**
+* 🌱 Currently exploring advanced backend systems, system design, and scalable architectures
+* 🤝 Open to collaborating on modern web platforms, SaaS products, and real-time applications
+
+## 🚀 Projects
+
+* 📦 Logyxpress
+* 🏏 CricArabia
+* 🏆 Cric11
+* 🔥 Firesetgo
+* 🌐 VisaNet
+* 📊 CricketGyan
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **State Management:** Redux Toolkit, Zustand
+* **Database:** MongoDB, MySQL
+* **Tools:** Git, GitHub, Postman, Firebase
+
+## 📫 Connect With Me
+
+* 📧 Email: [deepakkumarplacee@gmail.com](mailto:deepakkumarplacee@gmail.com)
+* 💼 LinkedIn: [www.linkedin.com/in/deepak-kumar-8084387128-ece](http://www.linkedin.com/in/deepak-kumar-8084387128-ece)
+
+## ⚡ Fun Fact
+
+I enjoy building both real-time web applications and hardware-based systems, combining software logic with practical engineering.
